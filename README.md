@@ -1,4 +1,4 @@
-# [FTB Presents Integration by Parts DX](https://feed-the-beast.com/modpack/ftb_presents_integration_by_parts_dx) By FTB
+# [FTB Presents Integration by Parts DX](https://feed-the-beast.com/modpack/107-ftb_presents_integration_by_parts_dx) By FTB
 
 <!-- toc -->
 
