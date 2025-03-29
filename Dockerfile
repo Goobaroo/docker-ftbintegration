@@ -7,7 +7,7 @@ LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Presents Integration by Parts DX"
 LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/100/ftb-presents-ibpdx-logo.png"
 LABEL homepage.widget.type=minecraft
-LABEL homepage.widget.url=FTBIntegrationbyPartsDX:25565
+LABEL homepage.widget.url=udp://FTBIntegrationbyPartsDX:25565
 
 
 RUN apt-get update && apt-get install -y curl && \
