@@ -5,7 +5,7 @@ FROM openjdk:11.0.16-jdk-buster
 LABEL version="1.13.3"
 LABEL homepage.group=Minecraft
 LABEL homepage.name="FTB Presents Integration by Parts DX"
-LABEL homepage.icon="https://apps.modpacks.ch/modpacks/art/100/ftb-presents-ibpdx-logo.png"
+LABEL homepage.icon="https://cdn.feed-the-beast.com/blob/0f/0fda3c68ef6ee050b28ec133824c19620464deb49c4a3bc0cbcbce4ccb1e4479.png"
 LABEL homepage.widget.type=minecraft
 LABEL homepage.widget.url=udp://FTBIntegrationbyPartsDX:25565
 
